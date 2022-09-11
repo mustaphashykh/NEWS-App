@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Felixstowe: Strike begins at UK's biggest container port",
+            "description": "Workers at Felixstowe, which handles half of the country's container cargo, are walking out for eight days.",
+            "url": "http://www.bbc.co.uk/news/uk-england-suffolk-62608112",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6373/production/_126395452_capture1.png",
+            "publishedAt": "2022-08-21T09:37:26.1364607Z",
+            "content": "By Helen Burchell &amp; Andre Rhoden-PaulBBC News\r\nDock workers at the UK's largest container port have gone on strike for the first time in 30 years. \r\nAbout 1,900 members of the Unite union at Feli… [+5667 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Darya Dugin: Daughter of Putin ally killed in Moscow bomb - report",
+            "description": "A car carrying Aleksandr Dugin's daughter exploded on the outskirts of Moscow, say Russian media reports.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62621509",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18091/production/_126394489_a4c1551f-3e54-44d0-be1a-5eca0288f15b.jpg",
+            "publishedAt": "2022-08-21T01:22:20.2013555Z",
+            "content": "By Leo SandsBBC News\r\nThe daughter of a close ally to Russia's President Vladimir Putin has reportedly been killed near Moscow.\r\nAccording to local media, Darya Dugin died after her car exploded in f… [+1816 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Al-Shabab: Somali forces claim end to deadly 30-hour hotel siege",
+            "description": "At least 12 people were killed after al-Shabab militants took hostages in the popular Mogadishu hotel.",
+            "url": "http://www.bbc.co.uk/news/world-africa-62621205",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11651/production/_126394217_4808826c4b3892f3f443fdb7c09a7fd6b3654ab3.jpg",
+            "publishedAt": "2022-08-20T22:37:22.091739Z",
+            "content": "By Leo SandsBBC News\r\nSomali forces claim to have defeated the militants who stormed a hotel in the capital after a bloody siege.\r\nAt least 12 people were killed in the deadly 30-hour ordeal, althoug… [+2400 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'Competing with mother nature is tough'",
+            "description": "Artist Frank Stella reflects on his career and his latest show on one of the oldest working US ranches.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62514791",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/30C8/production/_126388421_p0cv8btb.jpg",
+            "publishedAt": "2022-08-19T23:07:26.6678019Z",
+            "content": "Legendary artist Frank Stella reflects on his latest project, a massive exhibition of recent sculptures on a ranch outside of New York City.\r\nFor over 60 years, Stella has been one of America's leadi… [+333 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "New Zealand: Seal breaks into marine biologist's home",
+            "description": "The curious seal, nicknamed Oscar, is thought to have squeezed through the cat flaps on its adventure.",
+            "url": "http://www.bbc.co.uk/news/world-asia-62608162",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15016/production/_126383068_mediaitem126382295.jpg",
+            "publishedAt": "2022-08-19T23:07:24.4027417Z",
+            "content": "By Elsa MaishmanBBC News\r\nWhen Jenn Ross returned to her New Zealand home to find a few buckets out of place in the garage, she thought the family cat, Coco, might have brought in a bird. \r\nInstead s… [+1811 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ex-Briton 'Isis Beatle' sentenced to life in prison",
+            "description": "Elshafee El Sheikh, 34, was found guilty in April of kidnapping and supporting a terrorist group.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62609217",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5D00/production/_95980832_elshafeeelsheikhcfamily-tweak5.jpg",
+            "publishedAt": "2022-08-19T16:07:23.2762417Z",
+            "content": "An Islamic State group militant from the UK has been sentenced to life in prison by a US court for his involvement with a terror cell.\r\nEl Shafee Elsheikh, 34, was convicted in April of hostage-takin… [+2030 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Vancouver Zoo: One escaped wolf missing, another found dead",
+            "description": "The police suspect the wolves were set free by a vandal who broke into the Greater Vancouver Zoo.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-62608918",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B9C/production/_126384572_gettyimages-1408483536.jpg",
+            "publishedAt": "2022-08-19T15:52:26.5831398Z",
+            "content": "Canada police are searching for a missing wolf after a pack escaped from a zoo near Vancouver.\r\nPolice and zoo staff believe the wolves were set free from the Greater Vancouver Zoo by a vandal on Tue… [+1911 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Billionaire Xiao Jianhua jailed for 13 years in China",
+            "description": "Chinese-Canadian tycoon Xiao Jianhua disappeared from a luxury hotel in Hong Kong in 2017.",
+            "url": "http://www.bbc.co.uk/news/world-asia-china-62605879",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/16BA4/production/_94229039_cac47280-3184-4efe-80f4-e834c24541e5.jpg",
+            "publishedAt": "2022-08-19T14:52:20.0109751Z",
+            "content": "A Chinese-Canadian billionaire has been sentenced to 13 years in prison in China and his company fined more than $8bn (£6.7bn).\r\nXiao Jianhua and his company Tomorrow Holdings were charged with embez… [+2302 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Sanna Marin: Finnish PM reveals she has taken drug test",
+            "description": "Sanna Marin was speaking at a news conference after videos showed her partying with Finnish celebrities.",
+            "url": "http://www.bbc.co.uk/news/world-europe-62608831",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4EF0/production/_126380202_marinebu.jpg",
+            "publishedAt": "2022-08-19T14:07:22.5594245Z",
+            "content": "Finland's prime minister has said she has taken a drug test, after new footage emerged showing the leader dancing with a Finnish popstar.\r\nThe footage was revealed after Sanna Marin, 36, came under f… [+389 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "PFAS: Possible breakthrough to destroy harmful 'forever chemicals'",
+            "description": "US scientists have discovered a low-cost method for destroying chemicals associated with cancer.",
+            "url": "http://www.bbc.co.uk/news/science-environment-62561756",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13CE4/production/_126342118_makeup_pfas.jpg",
+            "publishedAt": "2022-08-19T10:52:19.1888257Z",
+            "content": "By Esme StallardBBC News Climate and Science\r\nChemists have identified how to destroy \"forever chemicals\" in a low-cost way for the first time, new research says.\r\nScientists have linked exposure to … [+3600 chars]"
+        }
+    ]
+}
